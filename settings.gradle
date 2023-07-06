@@ -1,0 +1,10 @@
+rootProject.name = 'Examen'
+include 'Client'
+include 'AppClient'
+include 'AppModel'
+include 'Persistence'
+include 'AppPersistence'
+include 'AppServer'
+include 'AppServices'
+include 'AppRestServices'
+
